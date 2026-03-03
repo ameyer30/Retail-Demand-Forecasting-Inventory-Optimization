@@ -1,4 +1,4 @@
-# Retail-Demand-Forecasting-Inventory-Optimization
+# Retail Demand Forecasting and Inventory Optimization
 
 
 ## Overview
