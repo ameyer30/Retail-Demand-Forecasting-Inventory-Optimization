@@ -44,6 +44,8 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ---
 
+![Revenue](Revenue.png)
+
 ## Key Insights
 
 ### Revenue Performance
