@@ -59,7 +59,7 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ### Inventory & Stockout Risk
 
-* 3 SKUs (P0008, P0018, P0002) accounted for the majority of stockouts.
+* 3 SKUs (P0008, P0018, P0019) accounted for the most stockouts.
 * Q1 (2022) had the single highest stockout occurrence.
 * Q3 showed the highest average stockout rate across both years.
 * Persistent stockouts across all 8 quarters indicate structural replenishment issues.
