@@ -44,7 +44,7 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ---
 
-![Revenue](Revenue.png)
+![Revenue](Images/Revenue.png)
 
 ## Key Insights
 
@@ -52,10 +52,12 @@ This analysis investigates root causes and proposes corrective strategies.
 
 * Top 3 SKUs generated over $89M combined revenue.
 * Groceries were the highest-performing category.
-* Revenue peaked in Summer, followed by Winter.
-* North region contributed the highest revenue share.
+* Revenue peaked in Summer, followed by Winter and Autumn.
+* Northern region contributed the highest revenue share.
 
 ---
+
+![SKU](Images/SKU.png)
 
 ### Inventory & Stockout Risk
 
@@ -68,8 +70,8 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ### Forecasting Accuracy
 
-* P0008 had the highest average forecast error.
-* 3 of the top 5 forecast error SKUs were also top stockout SKUs.
+* P0008 and P0009 had the highest average forecast error.
+* 4 of the top 5 forecast error SKUs were also top stockout SKUs.
 * Forecast errors were highest in Q1 and Q3, indicating seasonal bias in planning.
 
 ---
