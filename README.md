@@ -95,7 +95,7 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ## Recommendations
 
-* Increase safety stock for high-stockout SKUs (P0008, P0018, P0002).
+* Increase safety stock for high-stockout SKUs (P0008, P0018, P0019).
 * Recalibrate forecasting models to address Q1 and Q3 seasonal error bias.
 * Implement dynamic safety stock based on forecast variance.
 * Improve service level tracking with real-time inventory dashboards.
