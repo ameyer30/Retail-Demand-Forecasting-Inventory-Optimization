@@ -76,12 +76,20 @@ This analysis investigates root causes and proposes corrective strategies.
 
 ---
 
-### Service Level & Efficiency
+![Quarterly](Images/Quarterly.png)
 
-* Average service level: **86%** (below 95% target).
-* Store 1 efficiency averaged 42–45%.
+### Demand Fulfillment Rate & Efficiency
+
+* Average demand fulfillment rate remained steady at: **86%** (below 95% target).
+* Store efficiency averaged 43%.
 * Indicates lost sales, unmet demand, and supply chain inefficiencies.
 
+### Commonalities
+
+* Q2 2022 and Q3 2023 recorded the lowest stockout indicators and lowest average forecast error, suggesting stronger forecast alignment with actual demand during these periods.
+* Despite improved forecast accuracy, store efficiency declined during these quarters, as well as in Q1 2023, indicating that inventory levels may have been increased beyond optimal levels to prevent stockouts.
+* This pattern suggests a trade-off between service level improvements and inventory utilization, where excess stock may have reduced stockout risk but lowered operational efficiency.
+  
 ---
 
 ## Business Insights
