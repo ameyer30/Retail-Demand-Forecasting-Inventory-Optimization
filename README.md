@@ -123,7 +123,7 @@ This analysis investigates root causes and proposes corrective strategies.
 ## Dashboard Features
 
 * Revenue by SKU, Region, and Season
-* Stockout Heatmaps (SKU × Quarter)
+* Stockout Analysis (SKU × Quarter)
 * Forecast Error Trend Analysis
 * Service Level Tracking
 * Store Efficiency Comparison
